@@ -1,0 +1,39 @@
+/*start global*/
+body {
+	font-family: arial;
+	padding: 0;
+	margin: 0;
+	font-size: 16px;
+	line-height: 20px;
+}
+/*end global*/
+.delete{
+	padding: 0;
+	clear: both;
+}
+.quote {
+	border: 1px solid #ccc;
+	box-shadow: 2px 2px 2px #ccc;
+	padding: 10px 50px;
+	width: 100%;
+	margin: 20px;
+	margin-bottom: 20px;
+	background-color: #fff6e0;
+	text-align: center;
+	margin-left: -50%;
+}
+
+.quote .info {
+	font-size: 14px;
+	color: #999;
+}
+
+.edit-quote form div,
+.edit-quote form input,
+.edit-quote form .area {
+	margin-bottom: 10px;
+	text-align: center;
+}
+.btn {
+	margin-bottom: 20px;
+}
